@@ -1,0 +1,92 @@
+[
+  {
+    "title": "a-05",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "627a8b8776ef769719236ad8",
+    "_parentId": "627a8b8776ef769719236ad2",
+    "_type": "article"
+  },
+  {
+    "title": "a-10",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "627a8b8776ef769719236ad9",
+    "_parentId": "627a8b8776ef769719236ad4",
+    "_type": "article"
+  },
+  {
+    "title": "a-15",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "627a8b8776ef769719236ada",
+    "_parentId": "627a8b8776ef769719236ad6",
+    "_type": "article",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "a-15",
+      "_isPercentageBased": true,
+      "_scoreToPass": 75,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_allowResetIfPassed": false,
+      "_banks": {
+        "_isEnabled": true,
+        "_split": "2,2",
+        "_randomisation": true
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      },
+      "_isResetOnRevisit": true,
+      "_attempts": "infinite"
+    },
+    "_trickle": {
+      "_isEnabled": true
+    }
+  },
+  {
+    "title": "a-20",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "627a8b8776ef769719236adb",
+    "_parentId": "627a8b8776ef769719236ad6",
+    "_type": "article"
+  }
+]

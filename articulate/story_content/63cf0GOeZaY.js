@@ -1,0 +1,1 @@
+window.globalProvideSvgData('Icons_HarveyBalls100-63cf0GOeZaY', "<svg viewBox=\"0 0 96 96\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" id=\"Icons_HarveyBalls100-63cf0GOeZaY\" overflow=\"hidden\"><g pointer-events=\"visiblePainted\" data-accepts=\"events\"><circle cx=\"48\" cy=\"48\" r=\"38\" fill=\"#99D18E\" /></g></svg>");
